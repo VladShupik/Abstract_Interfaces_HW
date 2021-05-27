@@ -14,6 +14,7 @@ namespace Task3
             player2.Pause();
             player2.Stop();
             player1.Stop();
+            //-----------------Задержка---------------
             Console.ReadKey();
         }
     }
